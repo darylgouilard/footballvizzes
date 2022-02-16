@@ -1,8 +1,3 @@
-layout: post
-title: "Players comparison radar"
-date: 2022-02-16 14:00:00 -0000
-
-<!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
